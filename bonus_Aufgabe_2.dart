@@ -1,10 +1,10 @@
 class Button {
-  final String text;
-  final double width;
-  final double height;
-  final double radius;
-  final double fontSize;
-  final double padding;
+  String text;
+  double width;
+  double height;
+  double radius;
+  double fontSize;
+  double padding;
 
   Button(
     this.text, {
